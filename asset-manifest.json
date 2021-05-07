@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/homepage%E2%80%9D:%20%E2%80%9Chttp://shubhamkhopade.github.io/react_admin_dashboard_layout/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/homepage%E2%80%9D:%20%E2%80%9Chttp://shubhamkhopade.github.io/react_admin_dashboard_layout/static/js/main.7041956e.chunk.js",
-    "main.js.map": "/homepage%E2%80%9D:%20%E2%80%9Chttp://shubhamkhopade.github.io/react_admin_dashboard_layout/static/js/main.7041956e.chunk.js.map",
-    "runtime-main.js": "/homepage%E2%80%9D:%20%E2%80%9Chttp://shubhamkhopade.github.io/react_admin_dashboard_layout/static/js/runtime-main.dffc3f83.js",
-    "runtime-main.js.map": "/homepage%E2%80%9D:%20%E2%80%9Chttp://shubhamkhopade.github.io/react_admin_dashboard_layout/static/js/runtime-main.dffc3f83.js.map",
-    "static/js/2.3d163bfb.chunk.js": "/homepage%E2%80%9D:%20%E2%80%9Chttp://shubhamkhopade.github.io/react_admin_dashboard_layout/static/js/2.3d163bfb.chunk.js",
-    "static/js/2.3d163bfb.chunk.js.map": "/homepage%E2%80%9D:%20%E2%80%9Chttp://shubhamkhopade.github.io/react_admin_dashboard_layout/static/js/2.3d163bfb.chunk.js.map",
-    "static/js/3.55a2a67f.chunk.js": "/homepage%E2%80%9D:%20%E2%80%9Chttp://shubhamkhopade.github.io/react_admin_dashboard_layout/static/js/3.55a2a67f.chunk.js",
-    "static/js/3.55a2a67f.chunk.js.map": "/homepage%E2%80%9D:%20%E2%80%9Chttp://shubhamkhopade.github.io/react_admin_dashboard_layout/static/js/3.55a2a67f.chunk.js.map",
-    "index.html": "/homepage%E2%80%9D:%20%E2%80%9Chttp://shubhamkhopade.github.io/react_admin_dashboard_layout/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/homepage%E2%80%9D:%20%E2%80%9Chttp://shubhamkhopade.github.io/react_admin_dashboard_layout/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.3d163bfb.chunk.js.LICENSE.txt": "/homepage%E2%80%9D:%20%E2%80%9Chttp://shubhamkhopade.github.io/react_admin_dashboard_layout/static/js/2.3d163bfb.chunk.js.LICENSE.txt"
+    "main.css": "/react_admin_dashboard_layout/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react_admin_dashboard_layout/static/js/main.7041956e.chunk.js",
+    "main.js.map": "/react_admin_dashboard_layout/static/js/main.7041956e.chunk.js.map",
+    "runtime-main.js": "/react_admin_dashboard_layout/static/js/runtime-main.f2dd6fca.js",
+    "runtime-main.js.map": "/react_admin_dashboard_layout/static/js/runtime-main.f2dd6fca.js.map",
+    "static/js/2.3d163bfb.chunk.js": "/react_admin_dashboard_layout/static/js/2.3d163bfb.chunk.js",
+    "static/js/2.3d163bfb.chunk.js.map": "/react_admin_dashboard_layout/static/js/2.3d163bfb.chunk.js.map",
+    "static/js/3.55a2a67f.chunk.js": "/react_admin_dashboard_layout/static/js/3.55a2a67f.chunk.js",
+    "static/js/3.55a2a67f.chunk.js.map": "/react_admin_dashboard_layout/static/js/3.55a2a67f.chunk.js.map",
+    "index.html": "/react_admin_dashboard_layout/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react_admin_dashboard_layout/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.3d163bfb.chunk.js.LICENSE.txt": "/react_admin_dashboard_layout/static/js/2.3d163bfb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dffc3f83.js",
+    "static/js/runtime-main.f2dd6fca.js",
     "static/js/2.3d163bfb.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.7041956e.chunk.js"
