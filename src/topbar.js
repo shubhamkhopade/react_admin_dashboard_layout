@@ -30,7 +30,7 @@ export default function Topbar() {
           <li class="nav-item dropdown no-arrow d-sm-none">
             <a
               class="nav-link dropdown-toggle"
-              href="#"
+              href="abc"
               id="searchDropdown"
               role="button"
               data-toggle="dropdown"
@@ -66,7 +66,7 @@ export default function Topbar() {
           <li class="nav-item dropdown no-arrow mx-1">
             <a
               class="nav-link dropdown-toggle"
-              href="#"
+              href="abc"
               id="alertsDropdown"
               role="button"
               data-toggle="dropdown"
