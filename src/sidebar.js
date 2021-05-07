@@ -33,7 +33,7 @@ export default function Sidebar() {
         <li class="nav-item">
           <a
             class="nav-link collapsed"
-            href="#"
+            href="abc"
             data-toggle="collapse"
             data-target="#collapseTwo"
             aria-expanded="true"
@@ -63,7 +63,7 @@ export default function Sidebar() {
         <li class="nav-item">
           <a
             class="nav-link collapsed"
-            href="#"
+            href="abc"
             data-toggle="collapse"
             data-target="#collapseUtilities"
             aria-expanded="true"
@@ -103,7 +103,7 @@ export default function Sidebar() {
         <li class="nav-item">
           <a
             class="nav-link collapsed"
-            href="#"
+            href="abc"
             data-toggle="collapse"
             data-target="#collapsePages"
             aria-expanded="true"

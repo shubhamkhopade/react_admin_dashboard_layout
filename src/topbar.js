@@ -83,7 +83,7 @@ export default function Topbar() {
               aria-labelledby="alertsDropdown"
             >
               <h6 class="dropdown-header">Alerts Center</h6>
-              <a class="dropdown-item d-flex align-items-center" href="#">
+              <a class="dropdown-item d-flex align-items-center" href="abc">
                 <div class="mr-3">
                   <div class="icon-circle bg-primary">
                     <i class="fas fa-file-alt text-white"></i>
@@ -96,7 +96,7 @@ export default function Topbar() {
                   </span>
                 </div>
               </a>
-              <a class="dropdown-item d-flex align-items-center" href="#">
+              <a class="dropdown-item d-flex align-items-center" href="abc">
                 <div class="mr-3">
                   <div class="icon-circle bg-success">
                     <i class="fas fa-donate text-white"></i>
@@ -107,7 +107,7 @@ export default function Topbar() {
                   $290.29 has been deposited into your account!
                 </div>
               </a>
-              <a class="dropdown-item d-flex align-items-center" href="#">
+              <a class="dropdown-item d-flex align-items-center" href="abc">
                 <div class="mr-3">
                   <div class="icon-circle bg-warning">
                     <i class="fas fa-exclamation-triangle text-white"></i>
@@ -119,7 +119,7 @@ export default function Topbar() {
                   account.
                 </div>
               </a>
-              <a class="dropdown-item text-center small text-gray-500" href="#">
+              <a class="dropdown-item text-center small text-gray-500" href="abc">
                 Show All Alerts
               </a>
             </div>
@@ -128,7 +128,7 @@ export default function Topbar() {
           <li class="nav-item dropdown no-arrow mx-1">
             <a
               class="nav-link dropdown-toggle"
-              href="#"
+              href="abc"
               id="messagesDropdown"
               role="button"
               data-toggle="dropdown"
@@ -145,7 +145,7 @@ export default function Topbar() {
               aria-labelledby="messagesDropdown"
             >
               <h6 class="dropdown-header">Message Center</h6>
-              <a class="dropdown-item d-flex align-items-center" href="#">
+              <a class="dropdown-item d-flex align-items-center" href="abc">
                 <div class="dropdown-list-image mr-3">
                   <img
                     class="rounded-circle"
@@ -162,7 +162,7 @@ export default function Topbar() {
                   <div class="small text-gray-500">Emily Fowler · 58m</div>
                 </div>
               </a>
-              <a class="dropdown-item d-flex align-items-center" href="#">
+              <a class="dropdown-item d-flex align-items-center" href="abc">
                 <div class="dropdown-list-image mr-3">
                   <img
                     class="rounded-circle"
@@ -179,7 +179,7 @@ export default function Topbar() {
                   <div class="small text-gray-500">Jae Chun · 1d</div>
                 </div>
               </a>
-              <a class="dropdown-item d-flex align-items-center" href="#">
+              <a class="dropdown-item d-flex align-items-center" href="abc">
                 <div class="dropdown-list-image mr-3">
                   <img
                     class="rounded-circle"
@@ -196,7 +196,7 @@ export default function Topbar() {
                   <div class="small text-gray-500">Morgan Alvarez · 2d</div>
                 </div>
               </a>
-              <a class="dropdown-item d-flex align-items-center" href="#">
+              <a class="dropdown-item d-flex align-items-center" href="abc">
                 <div class="dropdown-list-image mr-3">
                   <img
                     class="rounded-circle"
@@ -214,7 +214,7 @@ export default function Topbar() {
                   <div class="small text-gray-500">Chicken the Dog · 2w</div>
                 </div>
               </a>
-              <a class="dropdown-item text-center small text-gray-500" href="#">
+              <a class="dropdown-item text-center small text-gray-500" href="abc">
                 Read More Messages
               </a>
             </div>
@@ -225,7 +225,7 @@ export default function Topbar() {
           <li class="nav-item dropdown no-arrow">
             <a
               class="nav-link dropdown-toggle"
-              href="#"
+              href="abc"
               id="userDropdown"
               role="button"
               data-toggle="dropdown"
@@ -238,6 +238,7 @@ export default function Topbar() {
               <img
                 class="img-profile rounded-circle"
                 src="img/undraw_profile.svg"
+                alt="abc"
               />
             </a>
 
@@ -245,22 +246,22 @@ export default function Topbar() {
               class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
               aria-labelledby="userDropdown"
             >
-              <a class="dropdown-item" href="#">
+              <a class="dropdown-item" href="abc">
                 <i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
                 Profile
               </a>
-              <a class="dropdown-item" href="#">
+              <a class="dropdown-item" href="abc">
                 <i class="fas fa-cogs fa-sm fa-fw mr-2 text-gray-400"></i>
                 Settings
               </a>
-              <a class="dropdown-item" href="#">
+              <a class="dropdown-item" href="abc">
                 <i class="fas fa-list fa-sm fa-fw mr-2 text-gray-400"></i>
                 Activity Log
               </a>
               <div class="dropdown-divider"></div>
               <a
                 class="dropdown-item"
-                href="#"
+                href="abc"
                 data-toggle="modal"
                 data-target="#logoutModal"
               >
